@@ -1,0 +1,2 @@
+import DobotDllType as dType
+
